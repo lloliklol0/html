@@ -1,0 +1,72 @@
+
+.card {
+    margin-top: 10%;
+    margin-left: 25%;
+    width:380px; 
+    background:rgb(237, 237, 69, 17); 
+    padding:12px; 
+    border-radius:8px; 
+     
+}
+.card1 {
+    margin-top: 10%;
+    margin-left: 25%;
+    width:380px; 
+    background:rgb(255, 165, 0, 0.17); 
+    padding:12px; 
+    border-radius:8px; 
+    
+}     
+.card2 {    
+    margin-top: 10%;
+    margin-left: 25%;
+    width:380px; 
+    background:rgb(0, 128, 0, 0.17); 
+    padding:12px; 
+    border-radius:8px; 
+    ; 
+}  
+.card3 {
+    margin-top: 10%;
+    margin-left: 25%;
+    width:380px; 
+    background:rgb(0, 0, 255, 0.17); 
+    padding:12px; 
+    border-radius:8px; 
+     
+}
+.card4 {
+    margin-top: 10%;
+    margin-left: 25%;
+    width:380px; 
+    background:rgb(165, 42, 42, 0.17); 
+    padding:12px; 
+    border-radius:8px; 
+     
+}.card5 {
+    margin-top: 10%;
+    margin-left: 25%;
+    width:380px; 
+    background:rgb(128, 0, 128, 0.17); 
+    padding:12px; 
+    border-radius:8px; 
+     
+}
+.card6 {
+    margin-top: 10%;
+    margin-left: 25%;
+    width:380px; 
+    background:rgb(128, 128, 128, 0.17); 
+    padding:12px; 
+    border-radius:8px; 
+     
+}   
+.card7 {
+    margin-top: 10%;
+    margin-left: 25%;
+    width:380px; 
+    background:rgb(255, 192, 203, 0.17); 
+    padding:12px; 
+    border-radius:8px; 
+     
+}
