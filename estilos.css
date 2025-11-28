@@ -70,3 +70,36 @@
     border-radius:8px; 
      
 }
+body {
+  margin: 0;
+  background: url('https://images.unsplash.com/photo-1503264116251-35a269479413') no-repeat center center fixed;
+  background-size: cover;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 160px;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+li a {
+  display: block;
+  color: black;
+  padding: 8px 8px;
+  text-decoration: none;
+}
+
+li a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: #555555;
+  color: white;
+}
